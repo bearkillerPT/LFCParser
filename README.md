@@ -3,8 +3,9 @@ A python3 program that parses bin files from MODBUS devices and outputs the data
 
 ## How to use
 1. Install Python3
-    - [Python3](https://www.python.org/downloads/)
+    - [Python3](https://www.python.org/downloads/);
     - The only dependency is `openpyxl` which is installed when the bat file is run.
-2. Run the `ConvertInputs.bat` file
+2. Place the input files, ending in .txt, in the `input` folder;
+3. Run the `ConvertInputs.bat` file.
 
 ## Work done for Heaboo
