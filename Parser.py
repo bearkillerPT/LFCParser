@@ -47,10 +47,7 @@ class Parser:
             return 'lfc_state'
     @staticmethod
     def cleanLine(line):
-        return line.replace('<', '')\
-                    .replace('>', '')\
-                    .replace('{', '')\
-                    .replace('}', '')
+        return line
 
 
 if __name__ == '__main__':
