@@ -1,0 +1,640 @@
+
+"03/02/2024 02:51:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:51:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:51:35",{*02 Ra>}{*01 rA;02;a;48.0;b;43.8;c;48.0;d;43.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;625;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:51:35",*01 Nx;02;Tin;48.00;Tout;43.80;EVs;0;>}
+"03/02/2024 02:51:37",{*03 Ra>}{*01 rA;03;a;28.8;b;33.0;c;28.8;d;33.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;8987;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:51:37",*01 Nx;03;Tin;28.80;Tout;33.00;EVs;0;>}
+"03/02/2024 02:51:39",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9369;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:51:39",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:51:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:51:43",{*01 rA;01;a;52.258;b;-6.964;>}
+"03/02/2024 02:51:45",{*02 Ra>}{*01 rA;02;a;48.0;b;43.7;c;48.0;d;43.7>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;635;CntEV;0;Ttk;52.26;>
+"03/02/2024 02:51:45",*01 Nx;02;Tin;48.00;Tout;43.70;EVs;0;>}
+"03/02/2024 02:51:47",{*03 Ra>}{*01 rA;03;a;28.8;b;33.0;c;28.8;d;33.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;8997;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:51:47",*01 Nx;03;Tin;28.80;Tout;33.00;EVs;0;>}
+"03/02/2024 02:51:49",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9379;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:51:49",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:51:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:51:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:51:55",{*02 Ra>}{*01 rA;02;a;47.8;b;43.6;c;47.8;d;43.6>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;645;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:51:55",*01 Nx;02;Tin;47.80;Tout;43.60;EVs;0;>}
+"03/02/2024 02:51:57",{*03 Ra>}{*01 rA;03;a;28.8;b;33.0;c;28.8;d;33.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9007;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:51:57",*01 Nx;03;Tin;28.80;Tout;33.00;EVs;0;>}
+"03/02/2024 02:51:59",{*04 Ra>}{*01 rA;04;a;30.5;b;29.6;c;30.5;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9389;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:51:59",*01 Nx;04;Tin;30.50;Tout;29.60;EVs;0;>}
+"03/02/2024 02:52:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:52:03",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:52:05",{*02 Ra>}{*01 rA;02;a;47.7;b;43.6;c;47.7;d;43.6>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;655;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:05",*01 Nx;02;Tin;47.70;Tout;43.60;EVs;0;>}
+"03/02/2024 02:52:07",{*03 Ra>}{*01 rA;03;a;28.8;b;33.0;c;28.8;d;33.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9017;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:07",*01 Nx;03;Tin;28.80;Tout;33.00;EVs;0;>}
+"03/02/2024 02:52:09",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9399;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:09",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:52:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:52:13",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:52:15",{*02 Ra>}{*01 rA;02;a;47.7;b;43.4;c;47.7;d;43.4>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;665;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:15",*01 Nx;02;Tin;47.70;Tout;43.40;EVs;0;>}
+"03/02/2024 02:52:17",{*03 Ra>}{*01 rA;03;a;28.8;b;33.0;c;28.8;d;33.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9027;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:17",*01 Nx;03;Tin;28.80;Tout;33.00;EVs;0;>}
+"03/02/2024 02:52:19",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9409;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:19",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:52:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:52:23",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:52:25",{*02 Ra>}{*01 rA;02;a;47.6;b;43.3;c;47.6;d;43.3>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;675;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:25",*01 Nx;02;Tin;47.60;Tout;43.30;EVs;0;>}
+"03/02/2024 02:52:27",{*03 Ra>}{*01 rA;03;a;28.8;b;33.0;c;28.8;d;33.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9037;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:27",*01 Nx;03;Tin;28.80;Tout;33.00;EVs;0;>}
+"03/02/2024 02:52:29",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9419;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:29",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:52:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:52:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:52:35",{*02 Ra>}{*01 rA;02;a;47.6;b;43.2;c;47.6;d;43.2>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;685;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:35",*01 Nx;02;Tin;47.60;Tout;43.20;EVs;0;>}
+"03/02/2024 02:52:37",{*03 Ra>}{*01 rA;03;a;28.8;b;33.0;c;28.8;d;33.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9047;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:37",*01 Nx;03;Tin;28.80;Tout;33.00;EVs;0;>}
+"03/02/2024 02:52:39",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9429;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:39",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:52:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:52:43",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:52:45",{*02 Ra>}{*01 rA;02;a;47.5;b;43.1;c;47.5;d;43.1>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;695;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:45",*01 Nx;02;Tin;47.50;Tout;43.10;EVs;0;>}
+"03/02/2024 02:52:47",{*03 Ra>}{*01 rA;03;a;28.8;b;33.0;c;28.8;d;33.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9057;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:47",*01 Nx;03;Tin;28.80;Tout;33.00;EVs;0;>}
+"03/02/2024 02:52:49",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9439;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:49",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:52:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:52:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:52:55",{*02 Ra>}{*01 rA;02;a;47.5;b;42.9;c;47.5;d;42.9>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;705;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:55",*01 Nx;02;Tin;47.50;Tout;42.90;EVs;0;>}
+"03/02/2024 02:52:57",{*03 Ra>}{*01 rA;03;a;28.9;b;32.9;c;28.9;d;32.9>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9067;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:57",*01 Nx;03;Tin;28.90;Tout;32.90;EVs;0;>}
+"03/02/2024 02:52:59",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9449;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:52:59",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:53:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:53:03",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:53:05",{*02 Ra>}{*01 rA;02;a;47.3;b;42.9;c;47.3;d;42.9>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;715;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:05",*01 Nx;02;Tin;47.30;Tout;42.90;EVs;0;>}
+"03/02/2024 02:53:07",{*03 Ra>}{*01 rA;03;a;28.9;b;32.9;c;28.9;d;32.9>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9077;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:07",*01 Nx;03;Tin;28.90;Tout;32.90;EVs;0;>}
+"03/02/2024 02:53:09",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9459;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:09",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:53:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:53:13",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:53:15",{*02 Ra>}{*01 rA;02;a;47.2;b;42.8;c;47.2;d;42.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;725;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:15",*01 Nx;02;Tin;47.20;Tout;42.80;EVs;0;>}
+"03/02/2024 02:53:17",{*03 Ra>}{*01 rA;03;a;28.9;b;32.9;c;28.9;d;32.9>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9087;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:17",*01 Nx;03;Tin;28.90;Tout;32.90;EVs;0;>}
+"03/02/2024 02:53:19",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9469;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:19",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:53:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:53:23",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:53:25",{*02 Ra>}{*01 rA;02;a;47.1;b;42.8;c;47.1;d;42.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;735;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:25",*01 Nx;02;Tin;47.10;Tout;42.80;EVs;0;>}
+"03/02/2024 02:53:27",{*03 Ra>}{*01 rA;03;a;28.8;b;32.9;c;28.8;d;32.9>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9097;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:27",*01 Nx;03;Tin;28.80;Tout;32.90;EVs;0;>}
+"03/02/2024 02:53:29",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9479;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:29",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:53:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:53:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:53:35",{*02 Ra>}{*01 rA;02;a;47.1;b;42.7;c;47.1;d;42.7>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;745;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:35",*01 Nx;02;Tin;47.10;Tout;42.70;EVs;0;>}
+"03/02/2024 02:53:37",{*03 Ra>}{*01 rA;03;a;28.9;b;32.9;c;28.9;d;32.9>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9107;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:37",*01 Nx;03;Tin;28.90;Tout;32.90;EVs;0;>}
+"03/02/2024 02:53:39",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9489;CntEV;0;Ttk;52.26;>
+"03/02/2024 02:53:39",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:53:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:53:43",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:53:45",{*02 Ra>}{*01 rA;02;a;47.0;b;42.7;c;47.0;d;42.7>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;755;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:45",*01 Nx;02;Tin;47.00;Tout;42.70;EVs;0;>}
+"03/02/2024 02:53:47",{*03 Ra>}{*01 rA;03;a;28.9;b;32.9;c;28.9;d;32.9>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9117;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:47",*01 Nx;03;Tin;28.90;Tout;32.90;EVs;0;>}
+"03/02/2024 02:53:49",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9499;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:49",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:53:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:53:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:53:55",{*02 Ra>}{*01 rA;02;a;47.0;b;42.4;c;47.0;d;42.4>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;765;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:55",*01 Nx;02;Tin;47.00;Tout;42.40;EVs;0;>}
+"03/02/2024 02:53:57",{*03 Ra>}{*01 rA;03;a;28.9;b;32.7;c;28.9;d;32.7>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9127;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:57",*01 Nx;03;Tin;28.90;Tout;32.70;EVs;0;>}
+"03/02/2024 02:53:59",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9509;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:53:59",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:54:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:54:03",{*01 rA;01;a;52.258;b;-6.964;>}
+"03/02/2024 02:54:05",{*02 Ra>}{*01 rA;02;a;46.8;b;42.4;c;46.8;d;42.4>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;775;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:05",*01 Nx;02;Tin;46.80;Tout;42.40;EVs;0;>}
+"03/02/2024 02:54:07",{*03 Ra>}{*01 rA;03;a;28.9;b;32.9;c;28.9;d;32.9>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9137;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:07",*01 Nx;03;Tin;28.90;Tout;32.90;EVs;0;>}
+"03/02/2024 02:54:09",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9519;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:09",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:54:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:54:13",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:54:15",{*02 Ra>}{*01 rA;02;a;46.7;b;42.3;c;46.7;d;42.3>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;785;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:15",*01 Nx;02;Tin;46.70;Tout;42.30;EVs;0;>}
+"03/02/2024 02:54:17",{*03 Ra>}{*01 rA;03;a;28.9;b;32.7;c;28.9;d;32.7>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9147;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:17",*01 Nx;03;Tin;28.90;Tout;32.70;EVs;0;>}
+"03/02/2024 02:54:19",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9529;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:19",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:54:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:54:23",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:54:25",{*02 Ra>}{*01 rA;02;a;46.7;b;42.3;c;46.7;d;42.3>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;795;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:25",*01 Nx;02;Tin;46.70;Tout;42.30;EVs;0;>}
+"03/02/2024 02:54:27",{*03 Ra>}{*01 rA;03;a;28.9;b;32.7;c;28.9;d;32.7>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9157;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:27",*01 Nx;03;Tin;28.90;Tout;32.70;EVs;0;>}
+"03/02/2024 02:54:29",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9539;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:29",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:54:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:54:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:54:35",{*02 Ra>}{*01 rA;02;a;46.6;b;42.2;c;46.6;d;42.2>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;805;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:35",*01 Nx;02;Tin;46.60;Tout;42.20;EVs;0;>}
+"03/02/2024 02:54:37",{*03 Ra>}{*01 rA;03;a;28.9;b;32.7;c;28.9;d;32.7>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9167;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:37",*01 Nx;03;Tin;28.90;Tout;32.70;EVs;0;>}
+"03/02/2024 02:54:39",{*04 Ra>}{*01 rA;04;a;30.3;b;29.7;c;30.3;d;29.7>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9549;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:39",*01 Nx;04;Tin;30.30;Tout;29.70;EVs;0;>}
+"03/02/2024 02:54:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:54:43",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:54:45",{*02 Ra>}{*01 rA;02;a;46.6;b;42.2;c;46.6;d;42.2>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;815;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:45",*01 Nx;02;Tin;46.60;Tout;42.20;EVs;0;>}
+"03/02/2024 02:54:47",{*03 Ra>}{*01 rA;03;a;28.9;b;32.7;c;28.9;d;32.7>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9177;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:47",*01 Nx;03;Tin;28.90;Tout;32.70;EVs;0;>}
+"03/02/2024 02:54:49",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9559;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:49",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:54:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:54:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:54:55",{*02 Ra>}{*01 rA;02;a;46.5;b;42.2;c;46.5;d;42.2>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;825;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:55",*01 Nx;02;Tin;46.50;Tout;42.20;EVs;0;>}
+"03/02/2024 02:54:57",{*03 Ra>}{*01 rA;03;a;28.9;b;32.7;c;28.9;d;32.7>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9187;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:57",*01 Nx;03;Tin;28.90;Tout;32.70;EVs;0;>}
+"03/02/2024 02:54:59",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9569;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:54:59",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:55:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:55:03",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:55:05",{*02 Ra>}{*01 rA;02;a;46.5;b;42.1;c;46.5;d;42.1>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;835;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:05",*01 Nx;02;Tin;46.50;Tout;42.10;EVs;0;>}
+"03/02/2024 02:55:07",{*03 Ra>}{*01 rA;03;a;28.9;b;32.7;c;28.9;d;32.7>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9197;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:07",*01 Nx;03;Tin;28.90;Tout;32.70;EVs;0;>}
+"03/02/2024 02:55:09",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9579;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:09",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:55:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:55:13",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:55:15",{*02 Ra>}{*01 rA;02;a;46.3;b;41.9;c;46.3;d;41.9>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;845;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:15",*01 Nx;02;Tin;46.30;Tout;41.90;EVs;0;>}
+"03/02/2024 02:55:17",{*03 Ra>}{*01 rA;03;a;28.9;b;32.6;c;28.9;d;32.6>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9207;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:17",*01 Nx;03;Tin;28.90;Tout;32.60;EVs;0;>}
+"03/02/2024 02:55:19",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9589;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:19",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:55:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:55:23",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:55:25",{*02 Ra>}{*01 rA;02;a;46.3;b;41.8;c;46.3;d;41.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;855;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:25",*01 Nx;02;Tin;46.30;Tout;41.80;EVs;0;>}
+"03/02/2024 02:55:27",{*03 Ra>}{*01 rA;03;a;28.9;b;32.6;c;28.9;d;32.6>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9217;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:27",*01 Nx;03;Tin;28.90;Tout;32.60;EVs;0;>}
+"03/02/2024 02:55:29",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9599;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:29",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:55:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:55:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:55:35",{*02 Ra>}{*01 rA;02;a;46.2;b;41.8;c;46.2;d;41.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;865;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:35",*01 Nx;02;Tin;46.20;Tout;41.80;EVs;0;>}
+"03/02/2024 02:55:37",{*03 Ra>}{*01 rA;03;a;28.9;b;32.6;c;28.9;d;32.6>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9227;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:37",*01 Nx;03;Tin;28.90;Tout;32.60;EVs;0;>}
+"03/02/2024 02:55:39",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9609;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:39",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:55:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:55:43",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:55:45",{*02 Ra>}{*01 rA;02;a;46.2;b;41.7;c;46.2;d;41.7>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;875;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:45",*01 Nx;02;Tin;46.20;Tout;41.70;EVs;0;>}
+"03/02/2024 02:55:47",{*03 Ra>}{*01 rA;03;a;28.9;b;32.6;c;28.9;d;32.6>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9237;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:47",*01 Nx;03;Tin;28.90;Tout;32.60;EVs;0;>}
+"03/02/2024 02:55:49",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9619;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:49",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:55:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:55:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:55:55",{*02 Ra>}{*01 rA;02;a;46.1;b;41.5;c;46.1;d;41.5>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;885;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:55",*01 Nx;02;Tin;46.10;Tout;41.50;EVs;0;>}
+"03/02/2024 02:55:57",{*03 Ra>}{*01 rA;03;a;28.9;b;32.7;c;28.9;d;32.7>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9247;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:55:57",*01 Nx;03;Tin;28.90;Tout;32.70;EVs;0;>}
+"03/02/2024 02:55:59",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9629;CntEV;0;Ttk;52.26;>
+"03/02/2024 02:55:59",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:56:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:56:03",{*01 rA;01;a;52.258;b;-6.964;>}
+"03/02/2024 02:56:05",{*02 Ra>}{*01 rA;02;a;46.1;b;41.5;c;46.1;d;41.5>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;895;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:05",*01 Nx;02;Tin;46.10;Tout;41.50;EVs;0;>}
+"03/02/2024 02:56:07",{*03 Ra>}{*01 rA;03;a;28.9;b;32.6;c;28.9;d;32.6>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9257;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:07",*01 Nx;03;Tin;28.90;Tout;32.60;EVs;0;>}
+"03/02/2024 02:56:09",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9639;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:09",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:56:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:56:13",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:56:15",{*02 Ra>}{*01 rA;02;a;46.1;b;41.4;c;46.1;d;41.4>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;905;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:15",*01 Nx;02;Tin;46.10;Tout;41.40;EVs;0;>}
+"03/02/2024 02:56:17",{*03 Ra>}{*01 rA;03;a;28.9;b;32.6;c;28.9;d;32.6>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9267;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:17",*01 Nx;03;Tin;28.90;Tout;32.60;EVs;0;>}
+"03/02/2024 02:56:19",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9649;CntEV;0;Ttk;52.26;>
+"03/02/2024 02:56:19",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:56:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:56:23",{*01 rA;01;a;52.258;b;-6.964;>}
+"03/02/2024 02:56:25",{*02 Ra>}{*01 rA;02;a;45.8;b;41.4;c;45.8;d;41.4>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;915;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:25",*01 Nx;02;Tin;45.80;Tout;41.40;EVs;0;>}
+"03/02/2024 02:56:27",{*03 Ra>}{*01 rA;03;a;28.9;b;32.5;c;28.9;d;32.5>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9277;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:27",*01 Nx;03;Tin;28.90;Tout;32.50;EVs;0;>}
+"03/02/2024 02:56:29",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9659;CntEV;0;Ttk;52.26;>
+"03/02/2024 02:56:29",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:56:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:56:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:56:35",{*02 Ra>}{*01 rA;02;a;45.8;b;41.4;c;45.8;d;41.4>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;925;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:35",*01 Nx;02;Tin;45.80;Tout;41.40;EVs;0;>}
+"03/02/2024 02:56:37",{*03 Ra>}{*01 rA;03;a;28.9;b;32.6;c;28.9;d;32.6>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9287;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:37",*01 Nx;03;Tin;28.90;Tout;32.60;EVs;0;>}
+"03/02/2024 02:56:39",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9669;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:39",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:56:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:56:43",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:56:45",{*02 Ra>}{*01 rA;02;a;45.7;b;41.2;c;45.7;d;41.2>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;935;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:45",*01 Nx;02;Tin;45.70;Tout;41.20;EVs;0;>}
+"03/02/2024 02:56:47",{*03 Ra>}{*01 rA;03;a;29.1;b;32.5;c;29.1;d;32.5>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9297;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:47",*01 Nx;03;Tin;29.10;Tout;32.50;EVs;0;>}
+"03/02/2024 02:56:49",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9679;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:49",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:56:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:56:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:56:55",{*02 Ra>}{*01 rA;02;a;45.7;b;41.2;c;45.7;d;41.2>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;945;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:55",*01 Nx;02;Tin;45.70;Tout;41.20;EVs;0;>}
+"03/02/2024 02:56:57",{*03 Ra>}{*01 rA;03;a;28.9;b;32.5;c;28.9;d;32.5>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9307;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:57",*01 Nx;03;Tin;28.90;Tout;32.50;EVs;0;>}
+"03/02/2024 02:56:59",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9689;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:56:59",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:57:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:57:03",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:57:05",{*02 Ra>}{*01 rA;02;a;45.7;b;41.0;c;45.7;d;41.0>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;955;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:05",*01 Nx;02;Tin;45.70;Tout;41.00;EVs;0;>}
+"03/02/2024 02:57:07",{*03 Ra>}{*01 rA;03;a;28.9;b;32.5;c;28.9;d;32.5>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9317;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:07",*01 Nx;03;Tin;28.90;Tout;32.50;EVs;0;>}
+"03/02/2024 02:57:09",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9699;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:09",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:57:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:57:13",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:57:15",{*02 Ra>}{*01 rA;02;a;45.6;b;41.0;c;45.6;d;41.0>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;965;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:15",*01 Nx;02;Tin;45.60;Tout;41.00;EVs;0;>}
+"03/02/2024 02:57:17",{*03 Ra>}{*01 rA;03;a;28.9;b;32.5;c;28.9;d;32.5>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9327;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:17",*01 Nx;03;Tin;28.90;Tout;32.50;EVs;0;>}
+"03/02/2024 02:57:19",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9709;CntEV;0;Ttk;52.00;>
+"03/02/2024 02:57:19",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:57:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:57:23",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:57:25",{*02 Ra>}{*01 rA;02;a;45.6;b;40.9;c;45.6;d;40.9>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;975;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:25",*01 Nx;02;Tin;45.60;Tout;40.90;EVs;0;>}
+"03/02/2024 02:57:27",{*03 Ra>}{*01 rA;03;a;28.9;b;32.5;c;28.9;d;32.5>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9337;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:27",*01 Nx;03;Tin;28.90;Tout;32.50;EVs;0;>}
+"03/02/2024 02:57:29",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9719;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:29",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:57:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:57:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:57:35",{*02 Ra>}{*01 rA;02;a;45.5;b;40.9;c;45.5;d;40.9>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;985;CntEV;0;Ttk;52.00;>
+"03/02/2024 02:57:35",*01 Nx;02;Tin;45.50;Tout;40.90;EVs;0;>}
+"03/02/2024 02:57:37",{*03 Ra>}{*01 rA;03;a;29.1;b;32.5;c;29.1;d;32.5>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9347;CntEV;0;Ttk;52.00;>
+"03/02/2024 02:57:37",*01 Nx;03;Tin;29.10;Tout;32.50;EVs;0;>}
+"03/02/2024 02:57:39",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9729;CntEV;0;Ttk;52.00;>
+"03/02/2024 02:57:39",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:57:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:57:43",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:57:45",{*02 Ra>}{*01 rA;02;a;45.3;b;40.8;c;45.3;d;40.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;995;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:45",*01 Nx;02;Tin;45.30;Tout;40.80;EVs;0;>}
+"03/02/2024 02:57:47",{*03 Ra>}{*01 rA;03;a;29.1;b;32.3;c;29.1;d;32.3>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9357;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:47",*01 Nx;03;Tin;29.10;Tout;32.30;EVs;0;>}C¡/%¢Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9739;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:49",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:57:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:57:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:57:55",{*02 Ra>}{*01 rA;02;a;45.3;b;40.8;c;45.3;d;40.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1005;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:55",*01 Nx;02;Tin;45.30;Tout;40.80;EVs;0;>}
+"03/02/2024 02:57:57",{*03 Ra>}{*01 rA;03;a;28.9;b;32.5;c;28.9;d;32.5>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9367;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:57",*01 Nx;03;Tin;28.90;Tout;32.50;EVs;0;>}
+"03/02/2024 02:57:59",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9749;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:57:59",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:58:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:58:03",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:58:05",{*02 Ra>}{*01 rA;02;a;45.2;b;40.7;c;45.2;d;40.7>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1015;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:05",*01 Nx;02;Tin;45.20;Tout;40.70;EVs;0;>}
+"03/02/2024 02:58:07",{*03 Ra>}{*01 rA;03;a;29.1;b;32.5;c;29.1;d;32.5>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9377;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:07",*01 Nx;03;Tin;29.10;Tout;32.50;EVs;0;>}
+"03/02/2024 02:58:09",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9759;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:09",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:58:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:58:13",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:58:15",{*02 Ra>}{*01 rA;02;a;45.2;b;40.5;c;45.2;d;40.5>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1025;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:15",*01 Nx;02;Tin;45.20;Tout;40.50;EVs;0;>}
+"03/02/2024 02:58:17",{*03 Ra>}{*01 rA;03;a;28.9;b;32.3;c;28.9;d;32.3>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9387;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:17",*01 Nx;03;Tin;28.90;Tout;32.30;EVs;0;>}
+"03/02/2024 02:58:19",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9769;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:19",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:58:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:58:23",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:58:25",{*02 Ra>}{*01 rA;02;a;45.1;b;40.5;c;45.1;d;40.5>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1035;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:25",*01 Nx;02;Tin;45.10;Tout;40.50;EVs;0;>}
+"03/02/2024 02:58:27",{*03 Ra>}{*01 rA;03;a;28.9;b;32.3;c;28.9;d;32.3>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9397;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:27",*01 Nx;03;Tin;28.90;Tout;32.30;EVs;0;>}
+"03/02/2024 02:58:29",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9779;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:29",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:58:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:58:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:58:35",{*02 Ra>}{*01 rA;02;a;45.1;b;40.4;c;45.1;d;40.4>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1045;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:35",*01 Nx;02;Tin;45.10;Tout;40.40;EVs;0;>}
+"03/02/2024 02:58:37",{*03 Ra>}{*01 rA;03;a;29.1;b;32.3;c;29.1;d;32.3>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9407;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:37",*01 Nx;03;Tin;29.10;Tout;32.30;EVs;0;>}
+"03/02/2024 02:58:39",{*04 Ra>}{*01 rA;04;a;30.3;b;29.6;c;30.3;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9789;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:39",*01 Nx;04;Tin;30.30;Tout;29.60;EVs;0;>}
+"03/02/2024 02:58:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:58:43",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:58:45",{*02 Ra>}{*01 rA;02;a;44.9;b;40.4;c;44.9;d;40.4>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1055;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:45",*01 Nx;02;Tin;44.90;Tout;40.40;EVs;0;>}
+"03/02/2024 02:58:47",{*03 Ra>}{*01 rA;03;a;29.1;b;32.3;c;29.1;d;32.3>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9417;CntEV;0;Ttk;52.00;>
+"03/02/2024 02:58:47",*01 Nx;03;Tin;29.10;Tout;32.30;EVs;0;>}
+"03/02/2024 02:58:49",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9799;CntEV;0;Ttk;52.00;>
+"03/02/2024 02:58:49",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:58:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:58:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:58:55",{*02 Ra>}{*01 rA;02;a;44.9;b;40.3;c;44.9;d;40.3>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1065;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:58:55",*01 Nx;02;Tin;44.90;Tout;40.30;EVs;0;>}
+"03/02/2024 02:58:57",{*03 Ra>}{*01 rA;03;a;29.1;b;32.3;c;29.1;d;32.3>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9427;CntEV;0;Ttk;52.00;>
+"03/02/2024 02:58:57",*01 Nx;03;Tin;29.10;Tout;32.30;EVs;0;>}
+"03/02/2024 02:58:59",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9809;CntEV;0;Ttk;52.00;>
+"03/02/2024 02:58:59",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:59:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:59:03",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:59:05",{*02 Ra>}{*01 rA;02;a;44.8;b;40.3;c;44.8;d;40.3>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1075;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:05",*01 Nx;02;Tin;44.80;Tout;40.30;EVs;0;>}
+"03/02/2024 02:59:07",{*03 Ra>}{*01 rA;03;a;29.1;b;32.3;c;29.1;d;32.3>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9437;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:07",*01 Nx;03;Tin;29.10;Tout;32.30;EVs;0;>}
+"03/02/2024 02:59:09",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9819;CntEV;0;Ttk;52.00;>
+"03/02/2024 02:59:09",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:59:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:59:13",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:59:15",{*02 Ra>}{*01 rA;02;a;44.8;b;40.3;c;44.8;d;40.3>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1085;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:15",*01 Nx;02;Tin;44.80;Tout;40.30;EVs;0;>}
+"03/02/2024 02:59:17",{*03 Ra>}{*01 rA;03;a;29.1;b;32.3;c;29.1;d;32.3>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9447;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:17",*01 Nx;03;Tin;29.10;Tout;32.30;EVs;0;>}
+"03/02/2024 02:59:19",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9829;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:19",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:59:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:59:23",{*01 rA;01;a;52.003;b;-6.964;>}
+"03/02/2024 02:59:25",{*02 Ra>}{*01 rA;02;a;44.7;b;40.2;c;44.7;d;40.2>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1095;CntEV;0;Ttk;52.00;>
+"03/02/2024 02:59:25",*01 Nx;02;Tin;44.70;Tout;40.20;EVs;0;>}
+"03/02/2024 02:59:27",{*03 Ra>}{*01 rA;03;a;29.1;b;32.2;c;29.1;d;32.2>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9457;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:27",*01 Nx;03;Tin;29.10;Tout;32.20;EVs;0;>}
+"03/02/2024 02:59:29",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9839;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:29",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:59:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:59:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:59:35",{*02 Ra>}{*01 rA;02;a;44.7;b;40.2;c;44.7;d;40.2>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1105;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:35",*01 Nx;02;Tin;44.70;Tout;40.20;EVs;0;>}
+"03/02/2024 02:59:37",{*03 Ra>}{*01 rA;03;a;29.1;b;32.2;c;29.1;d;32.2>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9467;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:37",*01 Nx;03;Tin;29.10;Tout;32.20;EVs;0;>}
+"03/02/2024 02:59:39",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9849;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:39",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:59:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:59:43",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:59:45",{*02 Ra>}{*01 rA;02;a;44.7;b;40.2;c;44.7;d;40.2>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1115;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:45",*01 Nx;02;Tin;44.70;Tout;40.20;EVs;0;>}
+"03/02/2024 02:59:47",{*03 Ra>}{*01 rA;03;a;29.1;b;32.2;c;29.1;d;32.2>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9477;CntEV;0;Ttk;52.26;>
+"03/02/2024 02:59:47",*01 Nx;03;Tin;29.10;Tout;32.20;EVs;0;>}
+"03/02/2024 02:59:49",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9859;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:49",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 02:59:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 02:59:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 02:59:55",{*02 Ra>}{*01 rA;02;a;44.6;b;40.0;c;44.6;d;40.0>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1125;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:55",*01 Nx;02;Tin;44.60;Tout;40.00;EVs;0;>}
+"03/02/2024 02:59:57",{*03 Ra>}{*01 rA;03;a;29.1;b;32.2;c;29.1;d;32.2>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9487;CntEV;0;Ttk;52.13;>
+"03/02/2024 02:59:57",*01 Nx;03;Tin;29.10;Tout;32.20;EVs;0;>}
+"03/02/2024 02:59:59",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9869;CntEV;0;Ttk;52.00;>
+"03/02/2024 02:59:59",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:00:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:00:03",{*01 rA;01;a;52.003;b;-6.964;>}
+"03/02/2024 03:00:05",{*02 Ra>}{*01 rA;02;a;44.4;b;40.0;c;44.4;d;40.0>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1135;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:00:05",*01 Nx;02;Tin;44.40;Tout;40.00;EVs;0;>}
+"03/02/2024 03:00:07",{*03 Ra>}{*01 rA;03;a;29.1;b;32.2;c;29.1;d;32.2>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9497;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:07",*01 Nx;03;Tin;29.10;Tout;32.20;EVs;0;>}
+"03/02/2024 03:00:09",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9879;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:09",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:00:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:00:13",{*01 rA;01;a;52.003;b;-6.964;>}
+"03/02/2024 03:00:15",{*02 Ra>}{*01 rA;02;a;44.4;b;39.9;c;44.4;d;39.9>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1145;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:15",*01 Nx;02;Tin;44.40;Tout;39.90;EVs;0;>}
+"03/02/2024 03:00:17",{*03 Ra>}{*01 rA;03;a;29.1;b;32.2;c;29.1;d;32.2>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9507;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:00:17",*01 Nx;03;Tin;29.10;Tout;32.20;EVs;0;>}
+"03/02/2024 03:00:19",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9889;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:00:19",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:00:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:00:23",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:00:25",{*02 Ra>}{*01 rA;02;a;44.3;b;39.8;c;44.3;d;39.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1155;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:25",*01 Nx;02;Tin;44.30;Tout;39.80;EVs;0;>}
+"03/02/2024 03:00:27",{*03 Ra>}{*01 rA;03;a;29.1;b;32.2;c;29.1;d;32.2>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9517;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:00:27",*01 Nx;03;Tin;29.10;Tout;32.20;EVs;0;>}
+"03/02/2024 03:00:29",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9899;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:29",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:00:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:00:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:00:35",{*02 Ra>}{*01 rA;02;a;44.3;b;39.8;c;44.3;d;39.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1165;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:35",*01 Nx;02;Tin;44.30;Tout;39.80;EVs;0;>}
+"03/02/2024 03:00:37",{*03 Ra>}{*01 rA;03;a;29.1;b;32.2;c;29.1;d;32.2>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9527;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:00:37",*01 Nx;03;Tin;29.10;Tout;32.20;EVs;0;>}
+"03/02/2024 03:00:39",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9909;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:39",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:00:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:00:43",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:00:45",{*02 Ra>}{*01 rA;02;a;44.2;b;39.8;c;44.2;d;39.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1175;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:45",*01 Nx;02;Tin;44.20;Tout;39.80;EVs;0;>}
+"03/02/2024 03:00:47",{*03 Ra>}{*01 rA;03;a;29.1;b;32.1;c;29.1;d;32.1>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9537;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:47",*01 Nx;03;Tin;29.10;Tout;32.10;EVs;0;>}
+"03/02/2024 03:00:49",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9919;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:49",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:00:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:00:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:00:55",{*02 Ra>}{*01 rA;02;a;44.2;b;39.7;c;44.2;d;39.7>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1185;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:00:55",*01 Nx;02;Tin;44.20;Tout;39.70;EVs;0;>}
+"03/02/2024 03:00:57",{*03 Ra>}{*01 rA;03;a;29.1;b;32.2;c;29.1;d;32.2>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9547;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:57",*01 Nx;03;Tin;29.10;Tout;32.20;EVs;0;>}
+"03/02/2024 03:00:59",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9929;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:00:59",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:01:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:01:03",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:01:05",{*02 Ra>}{*01 rA;02;a;44.1;b;39.7;c;44.1;d;39.7>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1195;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:05",*01 Nx;02;Tin;44.10;Tout;39.70;EVs;0;>}
+"03/02/2024 03:01:07",{*03 Ra>}{*01 rA;03;a;29.1;b;32.2;c;29.1;d;32.2>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9557;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:07",*01 Nx;03;Tin;29.10;Tout;32.20;EVs;0;>}
+"03/02/2024 03:01:09",{*04 Ra>}{*01 rA;04;a;30.1;b;29.6;c;30.1;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9939;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:09",*01 Nx;04;Tin;30.10;Tout;29.60;EVs;0;>}
+"03/02/2024 03:01:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:01:13",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:01:15",{*02 Ra>}{*01 rA;02;a;44.1;b;39.5;c;44.1;d;39.5>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1205;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:15",*01 Nx;02;Tin;44.10;Tout;39.50;EVs;0;>}
+"03/02/2024 03:01:17",{*03 Ra>}{*01 rA;03;a;29.1;b;32.1;c;29.1;d;32.1>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9567;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:17",*01 Nx;03;Tin;29.10;Tout;32.10;EVs;0;>}
+"03/02/2024 03:01:19",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9949;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:01:19",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:01:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:01:23",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:01:25",{*02 Ra>}{*01 rA;02;a;44.1;b;39.5;c;44.1;d;39.5>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1215;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:25",*01 Nx;02;Tin;44.10;Tout;39.50;EVs;0;>}
+"03/02/2024 03:01:27",{*03 Ra>}{*01 rA;03;a;29.1;b;32.1;c;29.1;d;32.1>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9577;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:27",*01 Nx;03;Tin;29.10;Tout;32.10;EVs;0;>}
+"03/02/2024 03:01:29",{*04 Ra>}{*01 rA;04;a;30.1;b;29.6;c;30.1;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9959;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:01:29",*01 Nx;04;Tin;30.10;Tout;29.60;EVs;0;>}
+"03/02/2024 03:01:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:01:33",{*01 rA;01;a;52.003;b;-6.964;>}
+"03/02/2024 03:01:35",{*02 Ra>}{*01 rA;02;a;43.9;b;39.5;c;43.9;d;39.5>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1225;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:35",*01 Nx;02;Tin;43.90;Tout;39.50;EVs;0;>}
+"03/02/2024 03:01:37",{*03 Ra>}{*01 rA;03;a;29.1;b;32.1;c;29.1;d;32.1>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9587;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:37",*01 Nx;03;Tin;29.10;Tout;32.10;EVs;0;>}
+"03/02/2024 03:01:39",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9969;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:39",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:01:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:01:43",{*01 rA;01;a;52.003;b;-6.964;>}
+"03/02/2024 03:01:45",{*02 Ra>}{*01 rA;02;a;43.9;b;39.4;c;43.9;d;39.4>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1235;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:01:45",*01 Nx;02;Tin;43.90;Tout;39.40;EVs;0;>}
+"03/02/2024 03:01:47",{*03 Ra>}{*01 rA;03;a;29.1;b;32.1;c;29.1;d;32.1>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9597;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:47",*01 Nx;03;Tin;29.10;Tout;32.10;EVs;0;>}
+"03/02/2024 03:01:49",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9979;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:01:49",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:01:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:01:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:01:55",{*02 Ra>}{*01 rA;02;a;43.8;b;39.4;c;43.8;d;39.4>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1245;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:01:55",*01 Nx;02;Tin;43.80;Tout;39.40;EVs;0;>}
+"03/02/2024 03:01:57",{*03 Ra>}{*01 rA;03;a;29.1;b;32.1;c;29.1;d;32.1>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9607;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:01:57",*01 Nx;03;Tin;29.10;Tout;32.10;EVs;0;>}
+"03/02/2024 03:01:59",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9989;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:01:59",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:02:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:02:03",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:02:05",{*02 Ra>}{*01 rA;02;a;43.8;b;39.3;c;43.8;d;39.3>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1255;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:02:05",*01 Nx;02;Tin;43.80;Tout;39.30;EVs;0;>}
+"03/02/2024 03:02:07",{*03 Ra>}{*01 rA;03;a;29.1;b;32.1;c;29.1;d;32.1>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9617;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:02:07",*01 Nx;03;Tin;29.10;Tout;32.10;EVs;0;>}
+"03/02/2024 03:02:09",{*04 Ra>}{*01 rA;04;a;30.2;b;29.5;c;30.2;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9999;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:02:09",*01 Nx;04;Tin;30.20;Tout;29.50;EVs;0;>}
+"03/02/2024 03:02:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:02:13",{*01 rA;01;a;52.003;b;-6.964;>}
+"03/02/2024 03:02:15",{*02 Ra>}{*01 rA;02;a;43.7;b;39.3;c;43.7;d;39.3>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1265;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:02:15",*01 Nx;02;Tin;43.70;Tout;39.30;EVs;0;>}
+"03/02/2024 03:02:17",{*03 Ra>}{*01 rA;03;a;29.1;b;32.1;c;29.1;d;32.1>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9627;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:02:17",*01 Nx;03;Tin;29.10;Tout;32.10;EVs;0;>}
+"03/02/2024 03:02:19",{*04 Ra>}{*01 rA;04;a;30.1;b;29.5;c;30.1;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10009;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:02:19",*01 Nx;04;Tin;30.10;Tout;29.50;EVs;0;>}
+"03/02/2024 03:02:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:02:23",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:02:25",{*02 Ra>}{*01 rA;02;a;43.7;b;39.2;c;43.7;d;39.2>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1275;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:02:25",*01 Nx;02;Tin;43.70;Tout;39.20;EVs;0;>}
+"03/02/2024 03:02:27",{*03 Ra>}{*01 rA;03;a;29.2;b;32.0;c;29.2;d;32.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9637;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:02:27",*01 Nx;03;Tin;29.20;Tout;32.00;EVs;0;>}
+"03/02/2024 03:02:29",{*04 Ra>}{*01 rA;04;a;30.2;b;29.5;c;30.2;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10019;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:02:29",*01 Nx;04;Tin;30.20;Tout;29.50;EVs;0;>}
+"03/02/2024 03:02:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:02:33",{*01 rA;01;a;52.003;b;-6.964;>}
+"03/02/2024 03:02:35",{*02 Ra>}{*01 rA;02;a;43.6;b;39.2;c;43.6;d;39.2>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1285;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:02:35",*01 Nx;02;Tin;43.60;Tout;39.20;EVs;0;>}
+"03/02/2024 03:02:37",{*03 Ra>}{*01 rA;03;a;29.1;b;32.0;c;29.1;d;32.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9647;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:02:37",*01 Nx;03;Tin;29.10;Tout;32.00;EVs;0;>}
+"03/02/2024 03:02:39",{*04 Ra>}{*01 rA;04;a;30.1;b;29.5;c;30.1;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10029;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:02:39",*01 Nx;04;Tin;30.10;Tout;29.50;EVs;0;>}
+"03/02/2024 03:02:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:02:43",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:02:45",{*02 Ra>}{*01 rA;02;a;43.6;b;39.0;c;43.6;d;39.0>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1295;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:02:45",*01 Nx;02;Tin;43.60;Tout;39.00;EVs;0;>}
+"03/02/2024 03:02:47",{*03 Ra>}{*01 rA;03;a;29.1;b;32.0;c;29.1;d;32.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9657;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:02:47",*01 Nx;03;Tin;29.10;Tout;32.00;EVs;0;>}
+"03/02/2024 03:02:49",{*04 Ra>}{*01 rA;04;a;30.2;b;29.5;c;30.2;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;10039;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:02:49",*01 Nx;04;Tin;30.20;Tout;29.50;EVs;0;>}
+"03/02/2024 03:02:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:02:53",{*01 rA;01;a;52.003;b;-6.964;>}
+"03/02/2024 03:02:55",{*02 Ra>}{*01 rA;02;a;43.6;b;39.0;c;43.6;d;39.0>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1305;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:02:55",*01 Nx;02;Tin;43.60;Tout;39.00;EVs;0;>}
+"03/02/2024 03:02:57",{*03 Ra>}{*01 rA;03;a;29.2;b;32.1;c;29.2;d;32.1>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9667;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:02:57",*01 Nx;03;Tin;29.20;Tout;32.10;EVs;0;>}
+"03/02/2024 03:02:59",{*04 Ra>}{*01 rA;04;a;30.1;b;29.5;c;30.1;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10049;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:02:59",*01 Nx;04;Tin;30.10;Tout;29.50;EVs;0;>}
+"03/02/2024 03:03:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:03:03",{*01 rA;01;a;52.003;b;-6.964;>}
+"03/02/2024 03:03:05",{*02 Ra>}{*01 rA;02;a;43.4;b;39.0;c;43.4;d;39.0>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1315;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:03:05",*01 Nx;02;Tin;43.40;Tout;39.00;EVs;0;>}
+"03/02/2024 03:03:07",{*03 Ra>}{*01 rA;03;a;29.1;b;32.1;c;29.1;d;32.1>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9677;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:03:07",*01 Nx;03;Tin;29.10;Tout;32.10;EVs;0;>}
+"03/02/2024 03:03:09",{*04 Ra>}{*01 rA;04;a;30.1;b;29.5;c;30.1;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10059;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:03:09",*01 Nx;04;Tin;30.10;Tout;29.50;EVs;0;>}
+"03/02/2024 03:03:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:03:13",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:03:15",{*02 Ra>}{*01 rA;02;a;43.3;b;38.9;c;43.3;d;38.9>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1325;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:03:15",*01 Nx;02;Tin;43.30;Tout;38.90;EVs;0;>}
+"03/02/2024 03:03:17",{*03 Ra>}{*01 rA;03;a;29.2;b;32.0;c;29.2;d;32.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9687;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:03:17",*01 Nx;03;Tin;29.20;Tout;32.00;EVs;0;>}
+"03/02/2024 03:03:19",{*04 Ra>}{*01 rA;04;a;30.1;b;29.5;c;30.1;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10069;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:03:19",*01 Nx;04;Tin;30.10;Tout;29.50;EVs;0;>}
+"03/02/2024 03:03:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:03:23",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:03:25",{*02 Ra>}{*01 rA;02;a;43.3;b;38.8;c;43.3;d;38.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1335;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:03:25",*01 Nx;02;Tin;43.30;Tout;38.80;EVs;0;>}
+"03/02/2024 03:03:27",{*03 Ra>}{*01 rA;03;a;29.1;b;32.0;c;29.1;d;32.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9697;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:03:27",*01 Nx;03;Tin;29.10;Tout;32.00;EVs;0;>}
+"03/02/2024 03:03:29",{*04 Ra>}{*01 rA;04;a;30.1;b;29.6;c;30.1;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10079;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:03:29",*01 Nx;04;Tin;30.10;Tout;29.60;EVs;0;>}
+"03/02/2024 03:03:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:03:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:03:35",{*02 Ra>}{*01 rA;02;a;43.2;b;38.8;c;43.2;d;38.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1345;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:03:35",*01 Nx;02;Tin;43.20;Tout;38.80;EVs;0;>}
+"03/02/2024 03:03:37",{*03 Ra>}{*01 rA;03;a;29.1;b;32.0;c;29.1;d;32.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9707;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:03:37",*01 Nx;03;Tin;29.10;Tout;32.00;EVs;0;>}
+"03/02/2024 03:03:39",{*04 Ra>}{*01 rA;04;a;30.1;b;29.5;c;30.1;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10089;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:03:39",*01 Nx;04;Tin;30.10;Tout;29.50;EVs;0;>}
+"03/02/2024 03:03:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:03:43",{*01 rA;01;a;52.003;b;-6.964;>}
+"03/02/2024 03:03:45",{*02 Ra>}{*01 rA;02;a;43.2;b;38.8;c;43.2;d;38.8>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1355;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:03:45",*01 Nx;02;Tin;43.20;Tout;38.80;EVs;0;>}
+"03/02/2024 03:03:47",{*03 Ra>}{*01 rA;03;a;29.1;b;32.0;c;29.1;d;32.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9717;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:03:47",*01 Nx;03;Tin;29.10;Tout;32.00;EVs;0;>}
+"03/02/2024 03:03:49",{*04 Ra>}{*01 rA;04;a;30.1;b;29.6;c;30.1;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10099;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:03:49",*01 Nx;04;Tin;30.10;Tout;29.60;EVs;0;>}
+"03/02/2024 03:03:51",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:03:53",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:03:55",{*02 Ra>}{*01 rA;02;a;43.2;b;38.6;c;43.2;d;38.6>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1365;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:03:55",*01 Nx;02;Tin;43.20;Tout;38.60;EVs;0;>}
+"03/02/2024 03:03:57",{*03 Ra>}{*01 rA;03;a;29.1;b;32.0;c;29.1;d;32.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9727;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:03:57",*01 Nx;03;Tin;29.10;Tout;32.00;EVs;0;>}
+"03/02/2024 03:03:59",{*04 Ra>}{*01 rA;04;a;30.1;b;29.5;c;30.1;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10109;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:03:59",*01 Nx;04;Tin;30.10;Tout;29.50;EVs;0;>}
+"03/02/2024 03:04:01",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:04:03",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:04:05",{*02 Ra>}{*01 rA;02;a;43.1;b;38.5;c;43.1;d;38.5>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1375;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:04:05",*01 Nx;02;Tin;43.10;Tout;38.50;EVs;0;>}
+"03/02/2024 03:04:07",{*03 Ra>}{*01 rA;03;a;29.1;b;32.0;c;29.1;d;32.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9737;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:04:07",*01 Nx;03;Tin;29.10;Tout;32.00;EVs;0;>}
+"03/02/2024 03:04:09",{*04 Ra>}{*01 rA;04;a;30.2;b;29.6;c;30.2;d;29.6>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;10119;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:04:09",*01 Nx;04;Tin;30.20;Tout;29.60;EVs;0;>}
+"03/02/2024 03:04:11",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:04:13",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:04:15",{*02 Ra>}{*01 rA;02;a;43.1;b;38.6;c;43.1;d;38.6>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1385;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:04:15",*01 Nx;02;Tin;43.10;Tout;38.60;EVs;0;>}
+"03/02/2024 03:04:17",{*03 Ra>}{*01 rA;03;a;29.1;b;32.0;c;29.1;d;32.0>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9747;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:04:17",*01 Nx;03;Tin;29.10;Tout;32.00;EVs;0;>}
+"03/02/2024 03:04:19",{*04 Ra>}{*01 rA;04;a;30.1;b;29.5;c;30.1;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10129;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:04:19",*01 Nx;04;Tin;30.10;Tout;29.50;EVs;0;>}
+"03/02/2024 03:04:21",{*01 Po;03;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:04:23",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:04:25",{*02 Ra>}{*01 rA;02;a;43.1;b;38.5;c;43.1;d;38.5>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;1395;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:04:25",*01 Nx;02;Tin;43.10;Tout;38.50;EVs;0;>}
+"03/02/2024 03:04:27",{*03 Ra>}{*01 rA;03;a;29.1;b;31.8;c;29.1;d;31.8>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9757;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:04:27",*01 Nx;03;Tin;29.10;Tout;31.80;EVs;0;>}
+"03/02/2024 03:04:29",{*04 Ra>}{*01 rA;04;a;30.2;b;29.5;c;30.2;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10139;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:04:29",*01 Nx;04;Tin;30.20;Tout;29.50;EVs;0;>}
+"03/02/2024 03:04:31",{*01 Po;04;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:04:33",{*01 rA;01;a;52.131;b;-6.964;>}
+"03/02/2024 03:04:35",{*02 Ra>}{*01 rA;02;a;42.9;b;38.5;c;42.9;d;38.5>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1405;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:04:35",*01 Nx;02;Tin;42.90;Tout;38.50;EVs;0;>}
+"03/02/2024 03:04:37",{*03 Ra>}{*01 rA;03;a;29.1;b;31.8;c;29.1;d;31.8>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;9767;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:04:37",*01 Nx;03;Tin;29.10;Tout;31.80;EVs;0;>}
+"03/02/2024 03:04:39",{*04 Ra>}{*01 rA;04;a;30.1;b;29.5;c;30.1;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;10149;CntEV;0;Ttk;52.13;>
+"03/02/2024 03:04:39",*01 Nx;04;Tin;30.10;Tout;29.50;EVs;0;>}
+"03/02/2024 03:04:41",{*01 Po;02;SttN;20;SttV;E_INICIAL;EVrunID;0;CntEVon;0;>}
+"03/02/2024 03:04:43",{*01 rA;01;a;52.003;b;-6.964;>}
+"03/02/2024 03:04:45",{*02 Ra>}{*01 rA;02;a;42.9;b;38.4;c;42.9;d;38.4>:iNTC:oNTCýHh*01 Ns;02;TempReadOk;RxT(ms);42;SttV;20;SttN;E_INICIAL;SttC;1415;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:04:45",*01 Nx;02;Tin;42.90;Tout;38.40;EVs;0;>}
+"03/02/2024 03:04:47",{*03 Ra>}{*01 rA;03;a;29.1;b;31.8;c;29.1;d;31.8>:iNTC:oNTCýHh*01 Ns;03;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;9777;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:04:47",*01 Nx;03;Tin;29.10;Tout;31.80;EVs;0;>}
+"03/02/2024 03:04:49",{*04 Ra>}{*01 rA;04;a;30.1;b;29.5;c;30.1;d;29.5>:iNTC:oNTCýHh*01 Ns;04;TempReadOk;RxT(ms);43;SttV;20;SttN;E_INICIAL;SttC;10159;CntEV;0;Ttk;52.00;>
+"03/02/2024 03:04:49",*01 Nx;04;Tin;30.10;Tout;29.50;EVs;0;>}
