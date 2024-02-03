@@ -9,6 +9,7 @@ if __name__ == '__main__':
         xlsExporter = XLSXExporter(output_filename)
         data = file.read()
         parsed_data = Parser.parse(data)
-        for lfc_id in parsed_data:
+        ordered_keys = sorted(parsed_data.keys())
+        for lfc_id in ordered_keys:
             xlsExporter.export(lfc_id, "Timestamp; State; TempA; TempB\n" + parsed_data[lfc_id])
         xlsExporter.save()
