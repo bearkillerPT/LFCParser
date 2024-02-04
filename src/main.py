@@ -15,5 +15,7 @@ if __name__ == '__main__':
             parsed_data = Parser.parse(data)
             ordered_keys = sorted(parsed_data.keys())
             for lfc_id in ordered_keys:
-                xlsExporter.export(lfc_id, "Timestamp; State; TempA; TempB\n" + parsed_data[lfc_id])
+                print(f"Exporting {lfc_id} data to {transform_filename(input_filename)}")
+                header = "Timestamp; " + ("EVonID; " if lfc_id == "01" else "State; ") + "TempA; TempB\n"
+                xlsExporter.export(lfc_id, header + parsed_data[lfc_id])
             xlsExporter.save()

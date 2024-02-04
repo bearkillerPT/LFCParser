@@ -18,6 +18,7 @@ class XLSXExporter:
         for i, line in enumerate(data.split('\n')):
             for j, value in enumerate(line.split(';')):
                 sheet.cell(row=i+1, column=j+1, value=value)
+                    
         self.tabCounter += 1
         
     def save(self):
